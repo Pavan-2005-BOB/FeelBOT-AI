@@ -27,7 +27,7 @@ This project implements a scalable **Credit Scoring Model** using **Apache Spark
 
 ## 💻 How to Run
 1.  Open the **[Google Colab Notebook](https://colab.research.google.com/github/Pavan-2005-BOB/FeelBOT-AI/blob/main/Predictive_Modeling_of_Credit_Scores_Through_Logistic_Regression.ipynb)**.
-2.  Upload the `cs-training.csv` file (available in this repo).
+2.  Upload the `cs-training.csv` file 
 3.  Run all cells to execute the Training and Evaluation pipeline.
 
 ## 📜 Credits
